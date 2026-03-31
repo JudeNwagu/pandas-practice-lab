@@ -45,10 +45,8 @@ The notebooks are grouped into:
 - time and text
 - visualization
 
-## Tools used
-- Python
-- Pandas
-- Jupyter Notebook
-- VS Code
-- Git
-- GitHub
+## Tech Stack used
+- Language: Python
+- Libraries: Pandas
+- Environment: Jupyter Notebook, VS Code
+- Version Control: Git, GitHub
